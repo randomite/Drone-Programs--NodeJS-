@@ -7,6 +7,7 @@ client
 
   .after(5000, function() {
     this.clockwise(0.5);
+    this.clockwise(1.0);
   })
 
 
